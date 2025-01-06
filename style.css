@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    
+}
+.navbar-toggler{
+    color: #00FFFF;
+}
+.details-img{
+    width: 320px;
+    height: 150px;
+}
+.logo-img{
+    width: 100px;
+    height: 120px;
+}
+.nav-texts{
+    font-size: large;
+    font: bold;
+    color: white;
+}
+.title-1{
+    color: #00FFFF;
+    font-weight:bolder;
+}
+.title-2{
+    color: #00FFFF;
+    font-weight:bolder;
+}
+
+.fa-download{
+    color: #00FFFF;
+}
+.fa-linkedin{
+    color: #00FFFF;
+}
+.fa-github{
+    color: #00FFFF;
+}
+.list-group-item{
+    width: 70px;
+    height: 30px;
+    background-color: gray;
+    font: bold
+}
+.fa-youtube{
+    color: #00FFFF;
+}
+.project-title-1{
+    color: #00FFFF;
+}
+/* .project-details{
+    border-style: solid;
+    border-color: white;
+} */
+.skill-box{
+      background-color: gray;
+      text-align: center;
+      padding: 5px;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 500;
+}
+.education-title{
+    color: #00FFFF;
+    font: bold;
+}
+
+.btn-custom{
+    background-color: gray;
+    color: aqua;
+    height: 40px;
+    width: 400px;
+ 
+}
+.form-control{
+    background: #000;
+    color: #fff;
+}
+
+.form-container{
+    width: 400px;
+}
+.btn3{
+    background-color: gray;
+    color: #00FFFF;
+}
+.shadow-custom {
+    box-shadow: 0 2px 5px 0 rgba(242, 241, 241, 0.50), 0 3px 10px 5px rgba(245, 245, 245, 0.05) !important;
+}
